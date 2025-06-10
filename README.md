@@ -36,7 +36,7 @@ EduMate-App/
 |   |-- scalers.pkl
 |   |-- features_info.pkl
 |   |-- unique_categories.pkl
-|   `-- data_konten_for_recs.pkl
+|   |-- data_konten_for_recs.pkl
 |-- requirements.txt
 |-- README.md
-`-- edumate.ipynb 
+|-- edumate.ipynb 
