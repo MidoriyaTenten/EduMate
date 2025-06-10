@@ -1,4 +1,4 @@
-### 💡 EduMate: Sistem Rekomendasi Belajar Cerdas
+# 💡 EduMate: Sistem Rekomendasi Belajar Cerdas
 Selamat datang di repositori EduMate, sebuah aplikasi web berbasis Streamlit yang dirancang untuk membantu Anda menemukan konten pembelajaran paling relevan sesuai dengan preferensi belajar pribadi Anda.
 
 ## ✨ Fitur Utama
@@ -36,7 +36,7 @@ EduMate-App/
 |   |-- scalers.pkl
 |   |-- features_info.pkl
 |   |-- unique_categories.pkl
-|   |-- data_konten_for_recs.pkl
+|   `-- data_konten_for_recs.pkl
 |-- requirements.txt
 |-- README.md
-|-- edumate.ipynb 
+`-- edumate.ipynb
