@@ -29,14 +29,14 @@ streamlit run app.py
 
 ## 📁 Struktur Proyek
 EduMate-App/
-├── app.py                      
-├── model_artifacts/            
-│   ├── recs_model.h5
-│   ├── label_encoders.pkl
-│   ├── scalers.pkl
-│   ├── features_info.pkl
-│   ├── unique_categories.pkl
-│   └── data_konten_for_recs.pkl
-├── requirements.txt            
-├── README.md                   
-└── edumate.ipynb   
+|-- app.py
+|-- model_artifacts/
+|   |-- recs_model.h5
+|   |-- label_encoders.pkl
+|   |-- scalers.pkl
+|   |-- features_info.pkl
+|   |-- unique_categories.pkl
+|   `-- data_konten_for_recs.pkl
+|-- requirements.txt
+|-- README.md
+`-- edumate.ipynb 
