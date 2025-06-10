@@ -27,16 +27,5 @@ pip install -r requirements.txt
 Setelah semua dependensi terinstal dan artefak model tersedia, Anda dapat menjalankan aplikasi Streamlit dari direktori utama proyek:
 streamlit run app.py
 
-## 📁 Struktur Proyek
-EduMate-App/
-|-- app.py
-|-- model_artifacts/
-|   |-- recs_model.h5
-|   |-- label_encoders.pkl
-|   |-- scalers.pkl
-|   |-- features_info.pkl
-|   |-- unique_categories.pkl
-|   `-- data_konten_for_recs.pkl
-|-- requirements.txt
-|-- README.md
-`-- edumate.ipynb
+## 📁 Struktur Proyek 
+![Struktur Direktori Proyek EduMate](https://raw.githubusercontent.com/MidoriyaTenten/PicturesExample/refs/heads/main/StrukturEduMate.png)
