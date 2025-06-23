@@ -16,8 +16,8 @@ Sistem EduMate menggunakan model rekomendasi hybrid yang dilatih dengan TensorFl
 ## Setup Environment - Shell/Terminal
 Sebelum menginstall library, disarankan untuk menggunakan virtual environment agar dependensi tetap terisolasi.
 Jalankan perintah berikut :
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv
+- venv\Scripts\activate
 
 ## Setup Library
 Setelah mengaktifkan virtual environment, install semua dependensi dari file requirements.txt dengan perintah berikut :
